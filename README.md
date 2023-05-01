@@ -19,9 +19,6 @@ sudo apt install -y python3-dev python-smbus i2c-tools python3-pil python3-pip p
 
 ## Configuration
 
-No configuration available.
-
-
 ### Enable I2C in Raspberry config
 ```
 sudo raspi-config
